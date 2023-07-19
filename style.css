@@ -1,0 +1,38 @@
+/* Phong cách cho toàn bộ trang */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Phong cách cho phần header */
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Phong cách cho phần chính của trang */
+main {
+  padding: 2rem;
+}
+
+/* Phong cách cho phần footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+/* Phong cách cho phần CAPTCHA */
+#captchaSection {
+  display: block;
+}
+
+#infoSection {
+  display: none;
+}
+
+/* Thêm phong cách tùy chỉnh cho các phần tử khác nếu cần */
